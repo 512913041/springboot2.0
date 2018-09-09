@@ -13,7 +13,7 @@ import de.codecentric.boot.admin.server.config.EnableAdminServer;
 public class App {
 
 	/**
-	 * springboot启动
+	 * springboot启动11
 	 * @param args
 	 */
 	public static void main(String[] args) {
