@@ -12,6 +12,10 @@ import de.codecentric.boot.admin.server.config.EnableAdminServer;
 @EnableAdminServer
 public class App {
 
+	/**
+	 * springboot启动
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		SpringApplication.run(App.class, args);
 	}
